@@ -1,0 +1,35 @@
+th{
+    font-family:'candara';
+    color: white;
+}
+#calendar{
+    font-size: 20px;
+    border-top: 30px solid rgb(22, 22, 34);
+    background-color: rgb(65, 105, 129);
+    color: white;
+    box-shadow: 10px 10px rgb(54, 54, 54);
+}
+
+#toco{
+    background-color: LightBlue;
+    border-radius: 10px;
+    width: 230px;
+}
+
+#Truck{
+    background-color: PaleGreen;
+    border-radius: 10px;
+    width: 230px;
+}
+
+#carreta{
+    background-color: LightPink;
+    border-radius: 10px;
+    width: 230px;
+}
+
+#Bitrem{
+    background-color: SlateBlue;
+    border-radius: 10px;
+    width: 230px;
+}
