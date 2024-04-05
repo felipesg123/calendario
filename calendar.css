@@ -8,6 +8,7 @@ th{
     background-color: rgb(65, 105, 129);
     color: white;
     box-shadow: 10px 10px rgb(54, 54, 54);
+    
 }
 
 #toco{
@@ -32,4 +33,11 @@ th{
     background-color: SlateBlue;
     border-radius: 10px;
     width: 230px;
+}
+body{
+    background-color:rgba(rgb(117, 65, 65), rgb(105, 145, 105), rgb(86, 86, 207), alpha);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom right, #3498db, #9b59b6);
 }
