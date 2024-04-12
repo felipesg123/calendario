@@ -38,6 +38,6 @@ body{
     background-color:rgba(rgb(117, 65, 65), rgb(105, 145, 105), rgb(86, 86, 207), alpha);
     margin: 0;
     padding: 0;
-    height: 100vh;
-    background: linear-gradient(to bottom right, #3498db, #9b59b6);
+    height: 120vh;
+    background: linear-gradient(to bottom right,  #010101, #5202ff,#6d2df6,#ebdbf8,#ccb6fa );
 }
